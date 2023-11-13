@@ -1,2 +1,4 @@
 # Int-gration-de-donn-es-avec-Pentaho-Data-Integration-et-PostgreSQL
 Intégration de données avec Pentaho Data Integration et PostgreSQL
+
+On utilisera Pentaho Data Integration pour transformer deux sources de données et charger des données dans une table PostgreSQL. On effectuera des transformations pour analyser les chaînes de date, combiner des champs et effectuer des contrôles de validation. Les deux sources de données fournissent de nouvelles données pour la table SSSales de l'exemple d'entrepôt de données Store Sales. Ainsi, on doit créer les tables et les séquences Store Sales et charger les exemples de lignes. On peut utiliser les tables Store Sales sur une base de données locale avec PostgreSQL installé sur son PC. On utilisera des fichiers d'entrée (en pj) dans les premières étapes des deux conceptions de travail que l'on va créer. Ce document utilise l'édition communautaire (CE) de PDI. 
